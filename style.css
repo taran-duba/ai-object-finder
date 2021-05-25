@@ -1,0 +1,19 @@
+body {
+    background-size: cover;
+}
+.heading {
+    width: 100%;
+    margin: 0;
+    font-size: 23px;
+}
+.note {
+    font-size: 18px;
+}
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+}
+#input {
+    margin: auto;
+    width: 90%;
+}
